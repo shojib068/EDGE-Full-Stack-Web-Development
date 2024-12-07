@@ -1,0 +1,21 @@
+ul > li{
+    list-style: none;
+}
+ul{
+    display: flex;
+}
+li{
+    padding: 10px;
+    background-color: aquamarine;
+}
+a{
+    text-decoration:none;
+    color: black;
+}
+li:hover{
+    background-color: blue;
+}
+.dropdown{
+    visibility: hidden;
+    background-color: azure;  
+}
